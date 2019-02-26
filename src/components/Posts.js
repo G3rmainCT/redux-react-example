@@ -27,7 +27,7 @@ class Posts extends Component {
     ));
 
     return (
-      <div style={{margin: '30px'}}>
+      <div>
         <h1>Posts</h1>
         {postItems}
       </div>
