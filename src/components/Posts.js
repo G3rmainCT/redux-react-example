@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 const POST_URL = 'https://jsonplaceholder.typicode.com/posts';
 
 class Posts extends Component {  
